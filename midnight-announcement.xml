@@ -1,0 +1,40 @@
+<TaskerData sr="" dvi="1" tv="4.8u1m">
+  <Profile sr="prof10" ve="2">
+    <cdate>1458504988103</cdate>
+    <edate>1460838333213</edate>
+    <id>10</id>
+    <mid0>11</mid0>
+    <nme>Midnight Announcement</nme>
+    <Time sr="con0">
+      <fh>0</fh>
+      <fm>0</fm>
+      <th>0</th>
+      <tm>1</tm>
+    </Time>
+  </Profile>
+  <Task sr="task11">
+    <cdate>1458504724904</cdate>
+    <edate>1460838333213</edate>
+    <id>11</id>
+    <nme>Midnight Announcement</nme>
+    <pri>100</pri>
+    <Action sr="act0" ve="7">
+      <code>445</code>
+      <Str sr="arg0" ve="3">Notifications/Lens Flare.mp3</Str>
+      <Int sr="arg1" val="0"/>
+      <Int sr="arg2" val="0"/>
+      <Int sr="arg3" val="5"/>
+    </Action>
+    <Action sr="act1" ve="7">
+      <code>559</code>
+      <Str sr="arg0" ve="3">%DAYW zero hundred hours</Str>
+      <Str sr="arg1" ve="3">default:default</Str>
+      <Int sr="arg2" val="5"/>
+      <Int sr="arg3" val="5"/>
+      <Int sr="arg4" val="5"/>
+      <Int sr="arg5" val="1"/>
+      <Int sr="arg6" val="0"/>
+      <Int sr="arg7" val="0"/>
+    </Action>
+  </Task>
+</TaskerData>

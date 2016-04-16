@@ -1,0 +1,47 @@
+<TaskerData sr="" dvi="1" tv="4.8u1m">
+  <Profile sr="prof6" ve="2">
+    <cdate>1458488551453</cdate>
+    <clp>true</clp>
+    <edate>1460810665491</edate>
+    <id>6</id>
+    <mid0>4</mid0>
+    <mid1>5</mid1>
+    <nme>Headset Plugged In Autoplay</nme>
+    <State sr="con0" ve="2">
+      <code>30</code>
+      <Int sr="arg0" val="0"/>
+    </State>
+  </Profile>
+  <Task sr="task4">
+    <cdate>1458488496472</cdate>
+    <edate>1458505405749</edate>
+    <id>4</id>
+    <nme>Play Next Track</nme>
+    <Action sr="act0" ve="7">
+      <code>307</code>
+      <Int sr="arg0" val="11"/>
+      <Int sr="arg1" val="0"/>
+      <Int sr="arg2" val="0"/>
+    </Action>
+    <Action sr="act1" ve="7">
+      <code>443</code>
+      <Int sr="arg0" val="0"/>
+      <Int sr="arg1" val="1"/>
+      <App sr="arg2">
+        <appClass>com.android.music.activitymanagement.TopLevelActivity</appClass>
+        <appPkg>com.google.android.music</appPkg>
+        <label>Play Music</label>
+      </App>
+    </Action>
+  </Task>
+  <Task sr="task5">
+    <cdate>1458488523900</cdate>
+    <edate>1458505409398</edate>
+    <id>5</id>
+    <nme>Go Home</nme>
+    <Action sr="act0" ve="7">
+      <code>25</code>
+      <Int sr="arg0" val="0"/>
+    </Action>
+  </Task>
+</TaskerData>
