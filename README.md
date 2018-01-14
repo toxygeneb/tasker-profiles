@@ -1,4 +1,4 @@
-# tasker
+# tasker-profiles
 
 Profiles for the Android app
 [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm).
